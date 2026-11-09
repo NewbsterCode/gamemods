@@ -35,7 +35,9 @@ jobs:
       - name: SOVL Campaign Editor tests
         shell: pwsh
         working-directory: sovl
-        run: python -m pytest -q tests
+        # The suite takes seconds; a hang (e.g. a modal dialog) must not hold the runner.
+        timeout-minutes: 5
+        run: python -m pytest -q -rs tests
 
       - name: Dungeons & Dynasties editor loads
         shell: pwsh
