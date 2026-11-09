@@ -14,3 +14,9 @@ running game.
 Personal save files are never committed (see `.gitignore`).
 
 Public pages: https://newbstercode.com/game-mods/
+
+## License
+
+[MIT](LICENSE). Game names are used only to identify compatibility; Newbster
+Code is not affiliated with or endorsed by the developers or publishers of
+these games.
