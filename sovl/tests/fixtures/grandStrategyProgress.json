@@ -1,0 +1,5022 @@
+{
+  "ActivePlayerID": 0,
+  "CurrentPhase": 1,
+  "CurrentRound": 43,
+  "regions": [
+    {
+      "regionID": "1",
+      "ownerID": 2,
+      "explored": false,
+      "settlementLevel": 2,
+      "settlementUpgradeTurns": 0,
+      "growth": 60,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [
+        {
+          "Tier": 2,
+          "inConstruction": 0,
+          "buildingSourceID": "longhouse",
+          "BuildingSource": {
+            "BuildingID": "longhouse",
+            "RegionTraits": null,
+            "NeedsTerrain": false
+          }
+        },
+        {
+          "Tier": 3,
+          "inConstruction": 0,
+          "buildingSourceID": "mines",
+          "BuildingSource": {
+            "BuildingID": "mines",
+            "RegionTraits": [
+              4
+            ],
+            "NeedsTerrain": true
+          }
+        },
+        {
+          "Tier": 2,
+          "inConstruction": 0,
+          "buildingSourceID": "abyssalHall",
+          "BuildingSource": {
+            "BuildingID": "abyssalHall",
+            "RegionTraits": null,
+            "NeedsTerrain": false
+          }
+        }
+      ],
+      "_recruitmentPools": [
+        {
+          "poolID": "Northmen",
+          "count": 0.0,
+          "max": 9
+        },
+        {
+          "poolID": "Abyssal Infantry",
+          "count": 0.0,
+          "max": 5
+        },
+        {
+          "poolID": "Abyssal Hounds",
+          "count": 0.0,
+          "max": 5
+        },
+        {
+          "poolID": "Abyssal Knights",
+          "count": 1.0,
+          "max": 5
+        }
+      ]
+    },
+    {
+      "regionID": "2",
+      "ownerID": 2,
+      "explored": false,
+      "settlementLevel": 2,
+      "settlementUpgradeTurns": 0,
+      "growth": 60,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [
+        {
+          "Tier": 3,
+          "inConstruction": 0,
+          "buildingSourceID": "docks",
+          "BuildingSource": {
+            "BuildingID": "docks",
+            "RegionTraits": [
+              1
+            ],
+            "NeedsTerrain": true
+          }
+        },
+        {
+          "Tier": 2,
+          "inConstruction": 0,
+          "buildingSourceID": "logginCamp",
+          "BuildingSource": {
+            "BuildingID": "logginCamp",
+            "RegionTraits": [
+              3
+            ],
+            "NeedsTerrain": true
+          }
+        },
+        {
+          "Tier": 2,
+          "inConstruction": 0,
+          "buildingSourceID": "farms",
+          "BuildingSource": {
+            "BuildingID": "farms",
+            "RegionTraits": [
+              0
+            ],
+            "NeedsTerrain": true
+          }
+        }
+      ],
+      "_recruitmentPools": []
+    },
+    {
+      "regionID": "3",
+      "ownerID": 2,
+      "explored": false,
+      "settlementLevel": 2,
+      "settlementUpgradeTurns": 0,
+      "growth": 6,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [
+        {
+          "Tier": 2,
+          "inConstruction": 0,
+          "buildingSourceID": "logginCamp",
+          "BuildingSource": {
+            "BuildingID": "logginCamp",
+            "RegionTraits": [
+              3
+            ],
+            "NeedsTerrain": true
+          }
+        }
+      ],
+      "_recruitmentPools": []
+    },
+    {
+      "regionID": "4",
+      "ownerID": 2,
+      "explored": false,
+      "settlementLevel": 2,
+      "settlementUpgradeTurns": 0,
+      "growth": 36,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [
+        {
+          "Tier": 3,
+          "inConstruction": 0,
+          "buildingSourceID": "docks",
+          "BuildingSource": {
+            "BuildingID": "docks",
+            "RegionTraits": [
+              1
+            ],
+            "NeedsTerrain": true
+          }
+        }
+      ],
+      "_recruitmentPools": []
+    },
+    {
+      "regionID": "5",
+      "ownerID": 2,
+      "explored": false,
+      "settlementLevel": 0,
+      "settlementUpgradeTurns": 0,
+      "growth": 0,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [],
+      "_recruitmentPools": []
+    },
+    {
+      "regionID": "6",
+      "ownerID": 0,
+      "explored": true,
+      "settlementLevel": 0,
+      "settlementUpgradeTurns": 0,
+      "growth": 0,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [
+        {
+          "Tier": 1,
+          "inConstruction": 0,
+          "buildingSourceID": "docks",
+          "BuildingSource": {
+            "BuildingID": "docks",
+            "RegionTraits": [
+              1
+            ],
+            "NeedsTerrain": true
+          }
+        }
+      ],
+      "_recruitmentPools": []
+    },
+    {
+      "regionID": "7",
+      "ownerID": 0,
+      "explored": true,
+      "settlementLevel": 0,
+      "settlementUpgradeTurns": 0,
+      "growth": 0,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [
+        {
+          "Tier": 1,
+          "inConstruction": 0,
+          "buildingSourceID": "docks",
+          "BuildingSource": {
+            "BuildingID": "docks",
+            "RegionTraits": [
+              1
+            ],
+            "NeedsTerrain": true
+          }
+        }
+      ],
+      "_recruitmentPools": []
+    },
+    {
+      "regionID": "8",
+      "ownerID": 0,
+      "explored": true,
+      "settlementLevel": 0,
+      "settlementUpgradeTurns": 0,
+      "growth": 0,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [
+        {
+          "Tier": 1,
+          "inConstruction": 0,
+          "buildingSourceID": "walls",
+          "BuildingSource": {
+            "BuildingID": "walls",
+            "RegionTraits": null,
+            "NeedsTerrain": false
+          }
+        }
+      ],
+      "_recruitmentPools": [
+        {
+          "poolID": "Goblins",
+          "count": 10.0,
+          "max": 10
+        },
+        {
+          "poolID": "Orcs",
+          "count": 5.0,
+          "max": 5
+        }
+      ]
+    },
+    {
+      "regionID": "9",
+      "ownerID": 2,
+      "explored": false,
+      "settlementLevel": 2,
+      "settlementUpgradeTurns": 0,
+      "growth": 44,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [
+        {
+          "Tier": 1,
+          "inConstruction": 0,
+          "buildingSourceID": "walls",
+          "BuildingSource": {
+            "BuildingID": "walls",
+            "RegionTraits": null,
+            "NeedsTerrain": false
+          }
+        }
+      ],
+      "_recruitmentPools": [
+        {
+          "poolID": "Northmen",
+          "count": 0.0,
+          "max": 9
+        },
+        {
+          "poolID": "Abyssal Infantry",
+          "count": 5.0,
+          "max": 5
+        }
+      ]
+    },
+    {
+      "regionID": "10",
+      "ownerID": 2,
+      "explored": false,
+      "settlementLevel": 0,
+      "settlementUpgradeTurns": 0,
+      "growth": 0,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [
+        {
+          "Tier": 1,
+          "inConstruction": 0,
+          "buildingSourceID": "logginCamp",
+          "BuildingSource": {
+            "BuildingID": "logginCamp",
+            "RegionTraits": [
+              3
+            ],
+            "NeedsTerrain": true
+          }
+        }
+      ],
+      "_recruitmentPools": []
+    },
+    {
+      "regionID": "12",
+      "ownerID": 2,
+      "explored": false,
+      "settlementLevel": 1,
+      "settlementUpgradeTurns": 0,
+      "growth": 20,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [
+        {
+          "Tier": 2,
+          "inConstruction": 0,
+          "buildingSourceID": "logginCamp",
+          "BuildingSource": {
+            "BuildingID": "logginCamp",
+            "RegionTraits": [
+              3
+            ],
+            "NeedsTerrain": true
+          }
+        }
+      ],
+      "_recruitmentPools": []
+    },
+    {
+      "regionID": "13",
+      "ownerID": 1,
+      "explored": true,
+      "settlementLevel": 0,
+      "settlementUpgradeTurns": 0,
+      "growth": 0,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [],
+      "_recruitmentPools": []
+    },
+    {
+      "regionID": "14",
+      "ownerID": 0,
+      "explored": true,
+      "settlementLevel": 0,
+      "settlementUpgradeTurns": 0,
+      "growth": 0,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [
+        {
+          "Tier": 1,
+          "inConstruction": 0,
+          "buildingSourceID": "walls",
+          "BuildingSource": {
+            "BuildingID": "walls",
+            "RegionTraits": null,
+            "NeedsTerrain": false
+          }
+        }
+      ],
+      "_recruitmentPools": [
+        {
+          "poolID": "Goblins",
+          "count": 10.0,
+          "max": 10
+        },
+        {
+          "poolID": "Orcs",
+          "count": 5.0,
+          "max": 5
+        }
+      ]
+    },
+    {
+      "regionID": "15",
+      "ownerID": 0,
+      "explored": true,
+      "settlementLevel": 0,
+      "settlementUpgradeTurns": 0,
+      "growth": 0,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [
+        {
+          "Tier": 1,
+          "inConstruction": 0,
+          "buildingSourceID": "docks",
+          "BuildingSource": {
+            "BuildingID": "docks",
+            "RegionTraits": [
+              1
+            ],
+            "NeedsTerrain": true
+          }
+        }
+      ],
+      "_recruitmentPools": []
+    },
+    {
+      "regionID": "16",
+      "ownerID": 2,
+      "explored": false,
+      "settlementLevel": 0,
+      "settlementUpgradeTurns": 0,
+      "growth": 0,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [
+        {
+          "Tier": 0,
+          "inConstruction": 1,
+          "buildingSourceID": "farms",
+          "BuildingSource": {
+            "BuildingID": "farms",
+            "RegionTraits": [
+              0
+            ],
+            "NeedsTerrain": true
+          }
+        }
+      ],
+      "_recruitmentPools": []
+    },
+    {
+      "regionID": "17",
+      "ownerID": -1,
+      "explored": false,
+      "settlementLevel": 0,
+      "settlementUpgradeTurns": 0,
+      "growth": 0,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [],
+      "_recruitmentPools": []
+    },
+    {
+      "regionID": "18",
+      "ownerID": 1,
+      "explored": false,
+      "settlementLevel": 0,
+      "settlementUpgradeTurns": 0,
+      "growth": 0,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [
+        {
+          "Tier": 1,
+          "inConstruction": 0,
+          "buildingSourceID": "foragingCamp",
+          "BuildingSource": {
+            "BuildingID": "foragingCamp",
+            "RegionTraits": [
+              3,
+              0
+            ],
+            "NeedsTerrain": true
+          }
+        }
+      ],
+      "_recruitmentPools": []
+    },
+    {
+      "regionID": "19",
+      "ownerID": 0,
+      "explored": true,
+      "settlementLevel": 0,
+      "settlementUpgradeTurns": 0,
+      "growth": 0,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [
+        {
+          "Tier": 1,
+          "inConstruction": 0,
+          "buildingSourceID": "mines",
+          "BuildingSource": {
+            "BuildingID": "mines",
+            "RegionTraits": [
+              4
+            ],
+            "NeedsTerrain": true
+          }
+        }
+      ],
+      "_recruitmentPools": []
+    },
+    {
+      "regionID": "20",
+      "ownerID": 0,
+      "explored": true,
+      "settlementLevel": 0,
+      "settlementUpgradeTurns": 0,
+      "growth": 0,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [
+        {
+          "Tier": 1,
+          "inConstruction": 0,
+          "buildingSourceID": "logginCamp",
+          "BuildingSource": {
+            "BuildingID": "logginCamp",
+            "RegionTraits": [
+              3
+            ],
+            "NeedsTerrain": true
+          }
+        }
+      ],
+      "_recruitmentPools": []
+    },
+    {
+      "regionID": "21",
+      "ownerID": 0,
+      "explored": true,
+      "settlementLevel": 0,
+      "settlementUpgradeTurns": 0,
+      "growth": 0,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [
+        {
+          "Tier": 1,
+          "inConstruction": 0,
+          "buildingSourceID": "docks",
+          "BuildingSource": {
+            "BuildingID": "docks",
+            "RegionTraits": [
+              1
+            ],
+            "NeedsTerrain": true
+          }
+        }
+      ],
+      "_recruitmentPools": []
+    },
+    {
+      "regionID": "22",
+      "ownerID": -1,
+      "explored": false,
+      "settlementLevel": 0,
+      "settlementUpgradeTurns": 0,
+      "growth": 0,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [],
+      "_recruitmentPools": null
+    },
+    {
+      "regionID": "23",
+      "ownerID": 1,
+      "explored": false,
+      "settlementLevel": 2,
+      "settlementUpgradeTurns": 0,
+      "growth": 55,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [
+        {
+          "Tier": 2,
+          "inConstruction": 0,
+          "buildingSourceID": "foragingCamp",
+          "BuildingSource": {
+            "BuildingID": "foragingCamp",
+            "RegionTraits": [
+              3,
+              0
+            ],
+            "NeedsTerrain": true
+          }
+        },
+        {
+          "Tier": 1,
+          "inConstruction": 0,
+          "buildingSourceID": "logginCamp",
+          "BuildingSource": {
+            "BuildingID": "logginCamp",
+            "RegionTraits": [
+              3
+            ],
+            "NeedsTerrain": true
+          }
+        }
+      ],
+      "_recruitmentPools": []
+    },
+    {
+      "regionID": "24",
+      "ownerID": 1,
+      "explored": true,
+      "settlementLevel": 1,
+      "settlementUpgradeTurns": 0,
+      "growth": 7,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [],
+      "_recruitmentPools": []
+    },
+    {
+      "regionID": "25",
+      "ownerID": 1,
+      "explored": true,
+      "settlementLevel": 1,
+      "settlementUpgradeTurns": 0,
+      "growth": 6,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [
+        {
+          "Tier": 2,
+          "inConstruction": 0,
+          "buildingSourceID": "logginCamp",
+          "BuildingSource": {
+            "BuildingID": "logginCamp",
+            "RegionTraits": [
+              3
+            ],
+            "NeedsTerrain": true
+          }
+        },
+        {
+          "Tier": 2,
+          "inConstruction": 0,
+          "buildingSourceID": "foragingCamp",
+          "BuildingSource": {
+            "BuildingID": "foragingCamp",
+            "RegionTraits": [
+              3,
+              0
+            ],
+            "NeedsTerrain": true
+          }
+        },
+        {
+          "Tier": 1,
+          "inConstruction": 0,
+          "buildingSourceID": "walls",
+          "BuildingSource": {
+            "BuildingID": "walls",
+            "RegionTraits": null,
+            "NeedsTerrain": false
+          }
+        }
+      ],
+      "_recruitmentPools": [
+        {
+          "poolID": "Newts",
+          "count": 4.0,
+          "max": 13
+        },
+        {
+          "poolID": "Saurian Infantry",
+          "count": 0.0,
+          "max": 7
+        }
+      ]
+    },
+    {
+      "regionID": "26",
+      "ownerID": 0,
+      "explored": true,
+      "settlementLevel": 0,
+      "settlementUpgradeTurns": 0,
+      "growth": 0,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [
+        {
+          "Tier": 1,
+          "inConstruction": 0,
+          "buildingSourceID": "walls",
+          "BuildingSource": {
+            "BuildingID": "walls",
+            "RegionTraits": null,
+            "NeedsTerrain": false
+          }
+        }
+      ],
+      "_recruitmentPools": [
+        {
+          "poolID": "Goblins",
+          "count": 0.0,
+          "max": 10
+        },
+        {
+          "poolID": "Orcs",
+          "count": 1.0,
+          "max": 5
+        }
+      ]
+    },
+    {
+      "regionID": "27",
+      "ownerID": 0,
+      "explored": true,
+      "settlementLevel": 0,
+      "settlementUpgradeTurns": 0,
+      "growth": 0,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [
+        {
+          "Tier": 1,
+          "inConstruction": 0,
+          "buildingSourceID": "farms",
+          "BuildingSource": {
+            "BuildingID": "farms",
+            "RegionTraits": [
+              0
+            ],
+            "NeedsTerrain": true
+          }
+        }
+      ],
+      "_recruitmentPools": []
+    },
+    {
+      "regionID": "28",
+      "ownerID": -1,
+      "explored": true,
+      "settlementLevel": 0,
+      "settlementUpgradeTurns": 0,
+      "growth": 0,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [],
+      "_recruitmentPools": null
+    },
+    {
+      "regionID": "29",
+      "ownerID": 0,
+      "explored": true,
+      "settlementLevel": 2,
+      "settlementUpgradeTurns": 0,
+      "growth": 8,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [
+        {
+          "Tier": 1,
+          "inConstruction": 1,
+          "buildingSourceID": "goblinDens",
+          "BuildingSource": {
+            "BuildingID": "goblinDens",
+            "RegionTraits": null,
+            "NeedsTerrain": false
+          }
+        },
+        {
+          "Tier": 2,
+          "inConstruction": 1,
+          "buildingSourceID": "docks",
+          "BuildingSource": {
+            "BuildingID": "docks",
+            "RegionTraits": [
+              1
+            ],
+            "NeedsTerrain": true
+          }
+        },
+        {
+          "Tier": 2,
+          "inConstruction": 1,
+          "buildingSourceID": "farms",
+          "BuildingSource": {
+            "BuildingID": "farms",
+            "RegionTraits": [
+              0
+            ],
+            "NeedsTerrain": true
+          }
+        },
+        {
+          "Tier": 0,
+          "inConstruction": 1,
+          "buildingSourceID": "arcaneTower",
+          "BuildingSource": {
+            "BuildingID": "arcaneTower",
+            "RegionTraits": null,
+            "NeedsTerrain": false
+          }
+        }
+      ],
+      "_recruitmentPools": [
+        {
+          "poolID": "Goblins",
+          "count": 0.0,
+          "max": 16
+        }
+      ]
+    },
+    {
+      "regionID": "30",
+      "ownerID": 1,
+      "explored": false,
+      "settlementLevel": 2,
+      "settlementUpgradeTurns": 0,
+      "growth": 60,
+      "settledFromRegionID": null,
+      "siegeTurns": 1,
+      "siegeOwnerID": 2,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [
+        {
+          "Tier": 3,
+          "inConstruction": 0,
+          "buildingSourceID": "docks",
+          "BuildingSource": {
+            "BuildingID": "docks",
+            "RegionTraits": [
+              1
+            ],
+            "NeedsTerrain": true
+          }
+        },
+        {
+          "Tier": 2,
+          "inConstruction": 1,
+          "buildingSourceID": "logginCamp",
+          "BuildingSource": {
+            "BuildingID": "logginCamp",
+            "RegionTraits": [
+              3
+            ],
+            "NeedsTerrain": true
+          }
+        },
+        {
+          "Tier": 2,
+          "inConstruction": 0,
+          "buildingSourceID": "walls",
+          "BuildingSource": {
+            "BuildingID": "walls",
+            "RegionTraits": null,
+            "NeedsTerrain": false
+          }
+        }
+      ],
+      "_recruitmentPools": [
+        {
+          "poolID": "Newts",
+          "count": 16.0,
+          "max": 16
+        },
+        {
+          "poolID": "Saurian Infantry",
+          "count": 0.0,
+          "max": 9
+        }
+      ]
+    },
+    {
+      "regionID": "31",
+      "ownerID": 1,
+      "explored": false,
+      "settlementLevel": 2,
+      "settlementUpgradeTurns": 0,
+      "growth": 33,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [
+        {
+          "Tier": 1,
+          "inConstruction": 0,
+          "buildingSourceID": "spawningPools",
+          "BuildingSource": {
+            "BuildingID": "spawningPools",
+            "RegionTraits": null,
+            "NeedsTerrain": false
+          }
+        },
+        {
+          "Tier": 3,
+          "inConstruction": 0,
+          "buildingSourceID": "logginCamp",
+          "BuildingSource": {
+            "BuildingID": "logginCamp",
+            "RegionTraits": [
+              3
+            ],
+            "NeedsTerrain": true
+          }
+        },
+        {
+          "Tier": 1,
+          "inConstruction": 0,
+          "buildingSourceID": "saurianBarracks",
+          "BuildingSource": {
+            "BuildingID": "saurianBarracks",
+            "RegionTraits": null,
+            "NeedsTerrain": false
+          }
+        }
+      ],
+      "_recruitmentPools": [
+        {
+          "poolID": "Newts",
+          "count": 7.0,
+          "max": 16
+        },
+        {
+          "poolID": "Saurian Infantry",
+          "count": 0.0,
+          "max": 9
+        }
+      ]
+    },
+    {
+      "regionID": "32",
+      "ownerID": 1,
+      "explored": true,
+      "settlementLevel": 1,
+      "settlementUpgradeTurns": 0,
+      "growth": 24,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [
+        {
+          "Tier": 2,
+          "inConstruction": 0,
+          "buildingSourceID": "logginCamp",
+          "BuildingSource": {
+            "BuildingID": "logginCamp",
+            "RegionTraits": [
+              3
+            ],
+            "NeedsTerrain": true
+          }
+        },
+        {
+          "Tier": 1,
+          "inConstruction": 0,
+          "buildingSourceID": "spawningPools",
+          "BuildingSource": {
+            "BuildingID": "spawningPools",
+            "RegionTraits": null,
+            "NeedsTerrain": false
+          }
+        }
+      ],
+      "_recruitmentPools": [
+        {
+          "poolID": "Newts",
+          "count": 8.0,
+          "max": 13
+        }
+      ]
+    },
+    {
+      "regionID": "33",
+      "ownerID": 0,
+      "explored": true,
+      "settlementLevel": 0,
+      "settlementUpgradeTurns": 0,
+      "growth": 0,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [],
+      "_recruitmentPools": []
+    },
+    {
+      "regionID": "34",
+      "ownerID": -1,
+      "explored": true,
+      "settlementLevel": 0,
+      "settlementUpgradeTurns": 0,
+      "growth": 0,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [],
+      "_recruitmentPools": null
+    },
+    {
+      "regionID": "35",
+      "ownerID": -1,
+      "explored": true,
+      "settlementLevel": 0,
+      "settlementUpgradeTurns": 0,
+      "growth": 0,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [],
+      "_recruitmentPools": null
+    },
+    {
+      "regionID": "36",
+      "ownerID": -1,
+      "explored": true,
+      "settlementLevel": 0,
+      "settlementUpgradeTurns": 0,
+      "growth": 0,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [],
+      "_recruitmentPools": null
+    },
+    {
+      "regionID": "37",
+      "ownerID": 0,
+      "explored": true,
+      "settlementLevel": 0,
+      "settlementUpgradeTurns": 0,
+      "growth": 0,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [
+        {
+          "Tier": 1,
+          "inConstruction": 0,
+          "buildingSourceID": "walls",
+          "BuildingSource": {
+            "BuildingID": "walls",
+            "RegionTraits": null,
+            "NeedsTerrain": false
+          }
+        }
+      ],
+      "_recruitmentPools": [
+        {
+          "poolID": "Goblins",
+          "count": 8.0,
+          "max": 10
+        },
+        {
+          "poolID": "Orcs",
+          "count": 5.0,
+          "max": 5
+        }
+      ]
+    },
+    {
+      "regionID": "38",
+      "ownerID": -1,
+      "explored": true,
+      "settlementLevel": 0,
+      "settlementUpgradeTurns": 0,
+      "growth": 0,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [],
+      "_recruitmentPools": null
+    },
+    {
+      "regionID": "39",
+      "ownerID": -1,
+      "explored": false,
+      "settlementLevel": 0,
+      "settlementUpgradeTurns": 0,
+      "growth": 0,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [],
+      "_recruitmentPools": null
+    },
+    {
+      "regionID": "40",
+      "ownerID": -1,
+      "explored": false,
+      "settlementLevel": 0,
+      "settlementUpgradeTurns": 0,
+      "growth": 0,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [],
+      "_recruitmentPools": null
+    },
+    {
+      "regionID": "41",
+      "ownerID": -1,
+      "explored": false,
+      "settlementLevel": 0,
+      "settlementUpgradeTurns": 0,
+      "growth": 0,
+      "settledFromRegionID": null,
+      "siegeTurns": 0,
+      "siegeOwnerID": -1,
+      "boostID": null,
+      "boostTurns": 0,
+      "_buildings": [],
+      "_recruitmentPools": null
+    }
+  ],
+  "armies": [
+    {
+      "armyID": 1352475483,
+      "armyName": "Snikklek's Army",
+      "ownerID": 0,
+      "currentRegion": "26",
+      "position": {
+        "x": 102.090012,
+        "y": -85.1975861,
+        "normalized": {
+          "x": 0.767767668,
+          "y": -0.640728235,
+          "normalized": {
+            "x": 0.7677677,
+            "y": -0.6407283,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.9999999
+        },
+        "magnitude": 132.969925,
+        "sqrMagnitude": 17681.0
+      },
+      "list": {
+        "listName": "Snikklek's Army",
+        "id": "5ea200fd-63b4-4212-b924-717bf0dcead8",
+        "factionType": 2,
+        "modFactionId": "",
+        "armySize": 0,
+        "armyAppearance": {
+          "primary": 15,
+          "secondary": 31,
+          "icon": 58
+        },
+        "armyIcon": 0,
+        "characters": {
+          "sectionName": "Commanders",
+          "entries": [
+            {
+              "count": 16,
+              "width": 5,
+              "customWidthSet": false,
+              "character": {
+                "unitID": "goblinShaman",
+                "flavourName": "Snikklek Fogwhisper",
+                "faction": 2,
+                "modFactionId": "",
+                "pattern": {
+                  "pattern": 0,
+                  "inverted": false
+                },
+                "propertySelections": [],
+                "magicItems": null,
+                "spells": [
+                  "shadowBolt",
+                  "primalFury"
+                ],
+                "campaignUnitProgress": {
+                  "maxUnitSize": 1,
+                  "xp": 1,
+                  "totalKills": 0,
+                  "totalLosses": 0,
+                  "level": 1,
+                  "replenishmentBonus": 0.0,
+                  "passiveReplenishmentBonus": 0.0,
+                  "levelUpBonuses": [],
+                  "unlockedPropertyIDs": [],
+                  "incomeMods": null,
+                  "recruiterBonusLevels": 0,
+                  "lootBonus": 0,
+                  "unlockedRangedAttack": null,
+                  "unlockedWeaponSet": null,
+                  "leftOverWounds": 0,
+                  "destroyed": false
+                },
+                "altSkin": "",
+                "firstName": "Snikklek",
+                "UnitSeed": 8850
+              },
+              "hasCharacter": true,
+              "deadCharacter": false,
+              "unitID": "goblinShortbows",
+              "flavourName": "Snikklek's Saboteurs",
+              "faction": 2,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 3,
+                "inverted": false
+              },
+              "propertySelections": [],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 17,
+                "xp": 1,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 1,
+                "replenishmentBonus": 0.0,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0
+                ],
+                "unlockedPropertyIDs": [],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 0,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 7527
+            }
+          ]
+        },
+        "battleLine": {
+          "sectionName": "Battle Line",
+          "entries": [
+            {
+              "count": 3,
+              "width": 3,
+              "customWidthSet": false,
+              "character": null,
+              "hasCharacter": false,
+              "deadCharacter": false,
+              "unitID": "trolls",
+              "flavourName": "Rock Beasts",
+              "faction": 2,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 3,
+                "inverted": false
+              },
+              "propertySelections": [],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 4,
+                "xp": 1,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 1,
+                "replenishmentBonus": 0.0,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0
+                ],
+                "unlockedPropertyIDs": [],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 0,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 1,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 176
+            },
+            {
+              "count": 15,
+              "width": 5,
+              "customWidthSet": false,
+              "character": null,
+              "hasCharacter": false,
+              "deadCharacter": false,
+              "unitID": "goblinSpears",
+              "flavourName": "Scavenger Reavers",
+              "faction": 2,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 3,
+                "inverted": false
+              },
+              "propertySelections": [],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 20,
+                "xp": 1,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 1,
+                "replenishmentBonus": 0.0,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0
+                ],
+                "unlockedPropertyIDs": [],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 0,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 3330
+            }
+          ]
+        },
+        "armyListSections": [
+          {
+            "sectionName": "Raiders",
+            "entries": []
+          },
+          {
+            "sectionName": "Ranged Support",
+            "entries": []
+          },
+          {
+            "sectionName": "Big Stuff",
+            "entries": []
+          }
+        ]
+      },
+      "hasActedThisTurn": true,
+      "retreatedTurns": 0,
+      "battleEntryPoints": -1,
+      "destroyed": false
+    },
+    {
+      "armyID": -1254390282,
+      "armyName": "Chorax's Army",
+      "ownerID": 1,
+      "currentRegion": "25",
+      "position": {
+        "x": 93.06043,
+        "y": -89.0519562,
+        "normalized": {
+          "x": 0.7224959,
+          "y": -0.6913752,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 128.8041,
+        "sqrMagnitude": 16590.4961
+      },
+      "list": {
+        "listName": "Chorax's Army",
+        "id": "475b6814-0a75-435d-b7ff-2cf2cb4ac81d",
+        "factionType": 8,
+        "modFactionId": "",
+        "armySize": 0,
+        "armyAppearance": {
+          "primary": 52,
+          "secondary": 33,
+          "icon": 56
+        },
+        "armyIcon": 0,
+        "characters": {
+          "sectionName": "Commanders",
+          "entries": [
+            {
+              "count": 14,
+              "width": 5,
+              "customWidthSet": false,
+              "character": {
+                "unitID": "saurianWarlord",
+                "flavourName": "Chorax Scarred-One",
+                "faction": 8,
+                "modFactionId": "",
+                "pattern": {
+                  "pattern": 0,
+                  "inverted": false
+                },
+                "propertySelections": [
+                  "ccwshield"
+                ],
+                "magicItems": null,
+                "spells": null,
+                "campaignUnitProgress": {
+                  "maxUnitSize": 1,
+                  "xp": 2,
+                  "totalKills": 0,
+                  "totalLosses": 0,
+                  "level": 2,
+                  "replenishmentBonus": 0.0,
+                  "passiveReplenishmentBonus": 0.0,
+                  "levelUpBonuses": [
+                    20
+                  ],
+                  "unlockedPropertyIDs": [
+                    "greaterWarcry"
+                  ],
+                  "incomeMods": null,
+                  "recruiterBonusLevels": 0,
+                  "lootBonus": 0,
+                  "unlockedRangedAttack": null,
+                  "unlockedWeaponSet": null,
+                  "leftOverWounds": 0,
+                  "destroyed": false
+                },
+                "altSkin": "saurianWarlord2",
+                "firstName": "Chorax",
+                "UnitSeed": 2230
+              },
+              "hasCharacter": true,
+              "deadCharacter": false,
+              "unitID": "saurianWarriors",
+              "flavourName": "Chorax's Guard",
+              "faction": 8,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 3,
+                "inverted": false
+              },
+              "propertySelections": [],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 14,
+                "xp": 2,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 2,
+                "replenishmentBonus": 0.0,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0,
+                  12
+                ],
+                "unlockedPropertyIDs": [],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 5,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 5126
+            }
+          ]
+        },
+        "battleLine": {
+          "sectionName": "Battle Line",
+          "entries": [
+            {
+              "count": 15,
+              "width": 5,
+              "customWidthSet": false,
+              "character": null,
+              "hasCharacter": false,
+              "deadCharacter": false,
+              "unitID": "saurianSpear",
+              "flavourName": "Sun Hunters",
+              "faction": 8,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 3,
+                "inverted": false
+              },
+              "propertySelections": [],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 15,
+                "xp": 2,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 2,
+                "replenishmentBonus": 0.0,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0,
+                  12
+                ],
+                "unlockedPropertyIDs": [],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 5,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 2445
+            },
+            {
+              "count": 8,
+              "width": 5,
+              "customWidthSet": false,
+              "character": null,
+              "hasCharacter": false,
+              "deadCharacter": false,
+              "unitID": "saurianSpear",
+              "flavourName": "The Sun Shields",
+              "faction": 8,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 3,
+                "inverted": false
+              },
+              "propertySelections": [],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 15,
+                "xp": 2,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 2,
+                "replenishmentBonus": 0.0,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0,
+                  12
+                ],
+                "unlockedPropertyIDs": [],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 5,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 9535
+            }
+          ]
+        },
+        "armyListSections": [
+          {
+            "sectionName": "Fast Attack",
+            "entries": []
+          },
+          {
+            "sectionName": "Ranged Support",
+            "entries": []
+          },
+          {
+            "sectionName": "Jungle Beasts",
+            "entries": []
+          }
+        ]
+      },
+      "hasActedThisTurn": false,
+      "retreatedTurns": 0,
+      "battleEntryPoints": -1,
+      "destroyed": false
+    },
+    {
+      "armyID": 1093842658,
+      "armyName": "Garrosh's Army",
+      "ownerID": 0,
+      "currentRegion": "27",
+      "position": {
+        "x": 105.0586,
+        "y": -88.25968,
+        "normalized": {
+          "x": 0.7656674,
+          "y": -0.643236756,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 137.2118,
+        "sqrMagnitude": 18827.082
+      },
+      "list": {
+        "listName": "Garrosh's Army",
+        "id": "a385c507-a444-4043-a2d6-4f6bdd9ea5cc",
+        "factionType": 2,
+        "modFactionId": "",
+        "armySize": 0,
+        "armyAppearance": {
+          "primary": 15,
+          "secondary": 31,
+          "icon": 58
+        },
+        "armyIcon": 0,
+        "characters": {
+          "sectionName": "Commanders",
+          "entries": [
+            {
+              "count": 9,
+              "width": 5,
+              "customWidthSet": false,
+              "character": {
+                "unitID": "warchief",
+                "flavourName": "Garrosh Ironjaw",
+                "faction": 2,
+                "modFactionId": "",
+                "pattern": {
+                  "pattern": 0,
+                  "inverted": false
+                },
+                "propertySelections": [
+                  "greatweapon"
+                ],
+                "magicItems": [
+                  "cruelty"
+                ],
+                "spells": null,
+                "campaignUnitProgress": {
+                  "maxUnitSize": 1,
+                  "xp": 0,
+                  "totalKills": 0,
+                  "totalLosses": 0,
+                  "level": 1,
+                  "replenishmentBonus": 0.0,
+                  "passiveReplenishmentBonus": 0.0,
+                  "levelUpBonuses": [],
+                  "unlockedPropertyIDs": [],
+                  "incomeMods": null,
+                  "recruiterBonusLevels": 0,
+                  "lootBonus": 0,
+                  "unlockedRangedAttack": null,
+                  "unlockedWeaponSet": null,
+                  "leftOverWounds": 0,
+                  "destroyed": false
+                },
+                "altSkin": null,
+                "firstName": "Garrosh",
+                "UnitSeed": 5445
+              },
+              "hasCharacter": true,
+              "deadCharacter": false,
+              "unitID": "orcWarriors",
+              "flavourName": "Garrosh's Marauders",
+              "faction": 2,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 1,
+                "inverted": false
+              },
+              "propertySelections": [
+                "2CCW"
+              ],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 14,
+                "xp": 0,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 1,
+                "replenishmentBonus": 0.0,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0
+                ],
+                "unlockedPropertyIDs": [],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 0,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 4076
+            }
+          ]
+        },
+        "battleLine": {
+          "sectionName": "Battle Line",
+          "entries": [
+            {
+              "count": 20,
+              "width": 5,
+              "customWidthSet": false,
+              "character": null,
+              "hasCharacter": false,
+              "deadCharacter": false,
+              "unitID": "goblinMob",
+              "flavourName": "Savage Ambushers",
+              "faction": 2,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 3,
+                "inverted": false
+              },
+              "propertySelections": [],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 20,
+                "xp": 0,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 1,
+                "replenishmentBonus": 0.0,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0
+                ],
+                "unlockedPropertyIDs": [],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 0,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 9734
+            },
+            {
+              "count": 20,
+              "width": 5,
+              "customWidthSet": false,
+              "character": null,
+              "hasCharacter": false,
+              "deadCharacter": false,
+              "unitID": "goblinSpears",
+              "flavourName": "Snaggletooth Raiders",
+              "faction": 2,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 3,
+                "inverted": false
+              },
+              "propertySelections": [],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 20,
+                "xp": 0,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 1,
+                "replenishmentBonus": 0.0,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0
+                ],
+                "unlockedPropertyIDs": [],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 0,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 2837
+            }
+          ]
+        },
+        "armyListSections": [
+          {
+            "sectionName": "Raiders",
+            "entries": []
+          },
+          {
+            "sectionName": "Ranged Support",
+            "entries": []
+          },
+          {
+            "sectionName": "Big Stuff",
+            "entries": []
+          }
+        ]
+      },
+      "hasActedThisTurn": true,
+      "retreatedTurns": 0,
+      "battleEntryPoints": -1,
+      "destroyed": false
+    },
+    {
+      "armyID": -794861501,
+      "armyName": "Vespera's Army",
+      "ownerID": 2,
+      "currentRegion": "30",
+      "position": {
+        "x": 83.23021,
+        "y": -93.73418,
+        "normalized": {
+          "x": 0.6639669,
+          "y": -0.747762,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 125.352951,
+        "sqrMagnitude": 15713.3633
+      },
+      "list": {
+        "listName": "Vespera's Army",
+        "id": "f0dbb685-8dfc-4213-b43f-56affb81093f",
+        "factionType": 7,
+        "modFactionId": "",
+        "armySize": 0,
+        "armyAppearance": {
+          "primary": 17,
+          "secondary": 16,
+          "icon": 59
+        },
+        "armyIcon": 0,
+        "characters": {
+          "sectionName": "Commanders",
+          "entries": [
+            {
+              "count": 14,
+              "width": 5,
+              "customWidthSet": false,
+              "character": {
+                "unitID": "abyssalSorcerer",
+                "flavourName": "Vespera Demonfinger",
+                "faction": 7,
+                "modFactionId": "",
+                "pattern": {
+                  "pattern": 0,
+                  "inverted": false
+                },
+                "propertySelections": [],
+                "magicItems": null,
+                "spells": [
+                  "shadowBolt",
+                  "fireball"
+                ],
+                "campaignUnitProgress": {
+                  "maxUnitSize": 1,
+                  "xp": 0,
+                  "totalKills": 0,
+                  "totalLosses": 0,
+                  "level": 2,
+                  "replenishmentBonus": 0.0,
+                  "passiveReplenishmentBonus": 0.0,
+                  "levelUpBonuses": [
+                    5
+                  ],
+                  "unlockedPropertyIDs": [
+                    "battleHardened1"
+                  ],
+                  "incomeMods": null,
+                  "recruiterBonusLevels": 0,
+                  "lootBonus": 0,
+                  "unlockedRangedAttack": null,
+                  "unlockedWeaponSet": null,
+                  "leftOverWounds": 0,
+                  "destroyed": false
+                },
+                "altSkin": "abyssalSorceress",
+                "firstName": "Vespera",
+                "UnitSeed": 3575
+              },
+              "hasCharacter": true,
+              "deadCharacter": false,
+              "unitID": "northmenAxe",
+              "flavourName": "Vespera's Tribe",
+              "faction": 7,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 3,
+                "inverted": false
+              },
+              "propertySelections": [
+                "ccwshield"
+              ],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 14,
+                "xp": 0,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 2,
+                "replenishmentBonus": 0.5,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0,
+                  1
+                ],
+                "unlockedPropertyIDs": [],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 0,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 8100
+            }
+          ]
+        },
+        "battleLine": {
+          "sectionName": "Battle Line",
+          "entries": [
+            {
+              "count": 8,
+              "width": 5,
+              "customWidthSet": false,
+              "character": null,
+              "hasCharacter": false,
+              "deadCharacter": false,
+              "unitID": "northmenAxe",
+              "flavourName": "Northwind Reavers",
+              "faction": 7,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 3,
+                "inverted": false
+              },
+              "propertySelections": [
+                "ccwshield"
+              ],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 15,
+                "xp": 0,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 2,
+                "replenishmentBonus": 0.0,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0,
+                  14
+                ],
+                "unlockedPropertyIDs": [
+                  "demonicPower"
+                ],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 0,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 905
+            }
+          ]
+        },
+        "armyListSections": [
+          {
+            "sectionName": "Fast Attack",
+            "entries": [
+              {
+                "count": 5,
+                "width": 5,
+                "customWidthSet": false,
+                "character": null,
+                "hasCharacter": false,
+                "deadCharacter": false,
+                "unitID": "abyssalHounds",
+                "flavourName": "Moonpack",
+                "faction": 7,
+                "modFactionId": "",
+                "pattern": {
+                  "pattern": 5,
+                  "inverted": false
+                },
+                "propertySelections": [],
+                "magicItems": null,
+                "spells": null,
+                "campaignUnitProgress": {
+                  "maxUnitSize": 11,
+                  "xp": 0,
+                  "totalKills": 0,
+                  "totalLosses": 0,
+                  "level": 2,
+                  "replenishmentBonus": 0.0,
+                  "passiveReplenishmentBonus": 0.0,
+                  "levelUpBonuses": [
+                    0,
+                    0
+                  ],
+                  "unlockedPropertyIDs": [],
+                  "incomeMods": null,
+                  "recruiterBonusLevels": 0,
+                  "lootBonus": 0,
+                  "unlockedRangedAttack": null,
+                  "unlockedWeaponSet": null,
+                  "leftOverWounds": 0,
+                  "destroyed": false
+                },
+                "altSkin": null,
+                "firstName": null,
+                "UnitSeed": 3877
+              },
+              {
+                "count": 5,
+                "width": 5,
+                "customWidthSet": false,
+                "character": null,
+                "hasCharacter": false,
+                "deadCharacter": false,
+                "unitID": "abyssalHounds",
+                "flavourName": "Moonfurs",
+                "faction": 7,
+                "modFactionId": "",
+                "pattern": {
+                  "pattern": 5,
+                  "inverted": false
+                },
+                "propertySelections": [],
+                "magicItems": null,
+                "spells": null,
+                "campaignUnitProgress": {
+                  "maxUnitSize": 8,
+                  "xp": 0,
+                  "totalKills": 0,
+                  "totalLosses": 0,
+                  "level": 2,
+                  "replenishmentBonus": 0.0,
+                  "passiveReplenishmentBonus": 0.0,
+                  "levelUpBonuses": [
+                    0,
+                    2
+                  ],
+                  "unlockedPropertyIDs": [
+                    "veteranDiscipline1"
+                  ],
+                  "incomeMods": null,
+                  "recruiterBonusLevels": 0,
+                  "lootBonus": 0,
+                  "unlockedRangedAttack": null,
+                  "unlockedWeaponSet": null,
+                  "leftOverWounds": 0,
+                  "destroyed": false
+                },
+                "altSkin": null,
+                "firstName": null,
+                "UnitSeed": 1235
+              }
+            ]
+          },
+          {
+            "sectionName": "Demonic Allies",
+            "entries": []
+          },
+          {
+            "sectionName": "War Beasts",
+            "entries": []
+          }
+        ]
+      },
+      "hasActedThisTurn": false,
+      "retreatedTurns": 0,
+      "battleEntryPoints": -1,
+      "destroyed": false
+    },
+    {
+      "armyID": 743719366,
+      "armyName": "Kroaor's Army",
+      "ownerID": 1,
+      "currentRegion": "20",
+      "position": {
+        "x": 105.179893,
+        "y": -79.2330246,
+        "normalized": {
+          "x": 0.79872936,
+          "y": -0.601690531,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 131.684021,
+        "sqrMagnitude": 17340.6816
+      },
+      "list": {
+        "listName": "Kroaor's Army",
+        "id": "eba56d6f-aaed-4596-95a4-a7953a3d2e64",
+        "factionType": 8,
+        "modFactionId": "",
+        "armySize": 0,
+        "armyAppearance": {
+          "primary": 52,
+          "secondary": 33,
+          "icon": 56
+        },
+        "armyIcon": 0,
+        "characters": {
+          "sectionName": "Commanders",
+          "entries": [
+            {
+              "count": 6,
+              "width": 6,
+              "customWidthSet": false,
+              "character": {
+                "unitID": "saurianWarlord",
+                "flavourName": "Kroaor ",
+                "faction": 8,
+                "modFactionId": "",
+                "pattern": {
+                  "pattern": 0,
+                  "inverted": false
+                },
+                "propertySelections": [
+                  "ccwshield"
+                ],
+                "magicItems": null,
+                "spells": null,
+                "campaignUnitProgress": {
+                  "maxUnitSize": 1,
+                  "xp": 2,
+                  "totalKills": 0,
+                  "totalLosses": 0,
+                  "level": 2,
+                  "replenishmentBonus": 0.0,
+                  "passiveReplenishmentBonus": 0.0,
+                  "levelUpBonuses": [
+                    3
+                  ],
+                  "unlockedPropertyIDs": [
+                    "veteranSkill1"
+                  ],
+                  "incomeMods": null,
+                  "recruiterBonusLevels": 0,
+                  "lootBonus": 0,
+                  "unlockedRangedAttack": null,
+                  "unlockedWeaponSet": null,
+                  "leftOverWounds": 0,
+                  "destroyed": false
+                },
+                "altSkin": null,
+                "firstName": "Kroaor",
+                "UnitSeed": 281
+              },
+              "hasCharacter": true,
+              "deadCharacter": false,
+              "unitID": "saurianWarriors",
+              "flavourName": "Kroaor's Phalanx",
+              "faction": 8,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 3,
+                "inverted": false
+              },
+              "propertySelections": [],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 14,
+                "xp": 0,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 2,
+                "replenishmentBonus": 0.5,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0,
+                  1
+                ],
+                "unlockedPropertyIDs": [],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 0,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 890
+            }
+          ]
+        },
+        "battleLine": {
+          "sectionName": "Battle Line",
+          "entries": []
+        },
+        "armyListSections": [
+          {
+            "sectionName": "Fast Attack",
+            "entries": []
+          },
+          {
+            "sectionName": "Ranged Support",
+            "entries": []
+          },
+          {
+            "sectionName": "Jungle Beasts",
+            "entries": []
+          }
+        ]
+      },
+      "hasActedThisTurn": true,
+      "retreatedTurns": 0,
+      "battleEntryPoints": -1,
+      "destroyed": false
+    },
+    {
+      "armyID": -1348637334,
+      "armyName": "Krullaeron's Army",
+      "ownerID": 2,
+      "currentRegion": "16",
+      "position": {
+        "x": 75.22283,
+        "y": -80.89436,
+        "normalized": {
+          "x": 0.6809693,
+          "y": -0.7323119,
+          "normalized": {
+            "x": 0.680969357,
+            "y": -0.732311964,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 110.464355,
+        "sqrMagnitude": 12202.373
+      },
+      "list": {
+        "listName": "Krullaeron's Army",
+        "id": "8ed718ad-e57b-4894-bc24-169dc5744f21",
+        "factionType": 7,
+        "modFactionId": "",
+        "armySize": 0,
+        "armyAppearance": {
+          "primary": 17,
+          "secondary": 16,
+          "icon": 59
+        },
+        "armyIcon": 0,
+        "characters": {
+          "sectionName": "Commanders",
+          "entries": [
+            {
+              "count": 14,
+              "width": 5,
+              "customWidthSet": false,
+              "character": {
+                "unitID": "abyssalSorcerer",
+                "flavourName": "Krullaeron Darkmarshal",
+                "faction": 7,
+                "modFactionId": "",
+                "pattern": {
+                  "pattern": 0,
+                  "inverted": false
+                },
+                "propertySelections": [],
+                "magicItems": null,
+                "spells": [
+                  "shadowBolt",
+                  "fireball"
+                ],
+                "campaignUnitProgress": {
+                  "maxUnitSize": 1,
+                  "xp": 2,
+                  "totalKills": 0,
+                  "totalLosses": 0,
+                  "level": 2,
+                  "replenishmentBonus": 0.0,
+                  "passiveReplenishmentBonus": 0.0,
+                  "levelUpBonuses": [
+                    14
+                  ],
+                  "unlockedPropertyIDs": [
+                    "demonicDefense"
+                  ],
+                  "incomeMods": null,
+                  "recruiterBonusLevels": 0,
+                  "lootBonus": 0,
+                  "unlockedRangedAttack": null,
+                  "unlockedWeaponSet": null,
+                  "leftOverWounds": 0,
+                  "destroyed": false
+                },
+                "altSkin": null,
+                "firstName": "Krullaeron",
+                "UnitSeed": 3117
+              },
+              "hasCharacter": true,
+              "deadCharacter": false,
+              "unitID": "northmenAxe",
+              "flavourName": "Krullaeron's Reavers",
+              "faction": 7,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 3,
+                "inverted": false
+              },
+              "propertySelections": [
+                "ccwshield"
+              ],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 14,
+                "xp": 0,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 2,
+                "replenishmentBonus": 0.0,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0,
+                  12
+                ],
+                "unlockedPropertyIDs": [],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 5,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 5935
+            }
+          ]
+        },
+        "battleLine": {
+          "sectionName": "Battle Line",
+          "entries": [
+            {
+              "count": 17,
+              "width": 5,
+              "customWidthSet": false,
+              "character": null,
+              "hasCharacter": false,
+              "deadCharacter": false,
+              "unitID": "northmenAxe",
+              "flavourName": "Wolf Braves",
+              "faction": 7,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 3,
+                "inverted": false
+              },
+              "propertySelections": [
+                "ccwshield"
+              ],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 20,
+                "xp": 0,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 2,
+                "replenishmentBonus": 0.0,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0,
+                  0
+                ],
+                "unlockedPropertyIDs": [],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 0,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 1885
+            },
+            {
+              "count": 15,
+              "width": 5,
+              "customWidthSet": false,
+              "character": null,
+              "hasCharacter": false,
+              "deadCharacter": false,
+              "unitID": "abyssalWarriors",
+              "flavourName": "The Roaring Marauders",
+              "faction": 7,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 2,
+                "inverted": false
+              },
+              "propertySelections": [
+                "ccwshield"
+              ],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 15,
+                "xp": 0,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 2,
+                "replenishmentBonus": 0.0,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0,
+                  12
+                ],
+                "unlockedPropertyIDs": [],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 5,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 7081
+            }
+          ]
+        },
+        "armyListSections": [
+          {
+            "sectionName": "Fast Attack",
+            "entries": [
+              {
+                "count": 6,
+                "width": 6,
+                "customWidthSet": false,
+                "character": null,
+                "hasCharacter": false,
+                "deadCharacter": false,
+                "unitID": "northmenHorse",
+                "flavourName": "Eagle Tribe",
+                "faction": 7,
+                "modFactionId": "",
+                "pattern": {
+                  "pattern": 7,
+                  "inverted": false
+                },
+                "propertySelections": [],
+                "magicItems": null,
+                "spells": null,
+                "campaignUnitProgress": {
+                  "maxUnitSize": 8,
+                  "xp": 0,
+                  "totalKills": 0,
+                  "totalLosses": 0,
+                  "level": 2,
+                  "replenishmentBonus": 0.0,
+                  "passiveReplenishmentBonus": 0.0,
+                  "levelUpBonuses": [
+                    0,
+                    12
+                  ],
+                  "unlockedPropertyIDs": [],
+                  "incomeMods": null,
+                  "recruiterBonusLevels": 0,
+                  "lootBonus": 5,
+                  "unlockedRangedAttack": null,
+                  "unlockedWeaponSet": null,
+                  "leftOverWounds": 1,
+                  "destroyed": false
+                },
+                "altSkin": null,
+                "firstName": null,
+                "UnitSeed": 1321
+              },
+              {
+                "count": 8,
+                "width": 4,
+                "customWidthSet": false,
+                "character": null,
+                "hasCharacter": false,
+                "deadCharacter": false,
+                "unitID": "abyssalHounds",
+                "flavourName": "Blackmaws",
+                "faction": 7,
+                "modFactionId": "",
+                "pattern": {
+                  "pattern": 5,
+                  "inverted": false
+                },
+                "propertySelections": [],
+                "magicItems": null,
+                "spells": null,
+                "campaignUnitProgress": {
+                  "maxUnitSize": 8,
+                  "xp": 0,
+                  "totalKills": 0,
+                  "totalLosses": 0,
+                  "level": 2,
+                  "replenishmentBonus": 0.0,
+                  "passiveReplenishmentBonus": 0.0,
+                  "levelUpBonuses": [
+                    0,
+                    14
+                  ],
+                  "unlockedPropertyIDs": [
+                    "demonicDefense"
+                  ],
+                  "incomeMods": null,
+                  "recruiterBonusLevels": 0,
+                  "lootBonus": 0,
+                  "unlockedRangedAttack": null,
+                  "unlockedWeaponSet": null,
+                  "leftOverWounds": 0,
+                  "destroyed": false
+                },
+                "altSkin": null,
+                "firstName": null,
+                "UnitSeed": 6120
+              },
+              {
+                "count": 8,
+                "width": 4,
+                "customWidthSet": false,
+                "character": null,
+                "hasCharacter": false,
+                "deadCharacter": false,
+                "unitID": "abyssalHounds",
+                "flavourName": "Ashenfangs",
+                "faction": 7,
+                "modFactionId": "",
+                "pattern": {
+                  "pattern": 5,
+                  "inverted": false
+                },
+                "propertySelections": [],
+                "magicItems": null,
+                "spells": null,
+                "campaignUnitProgress": {
+                  "maxUnitSize": 8,
+                  "xp": 0,
+                  "totalKills": 0,
+                  "totalLosses": 0,
+                  "level": 2,
+                  "replenishmentBonus": 0.0,
+                  "passiveReplenishmentBonus": 0.0,
+                  "levelUpBonuses": [
+                    0,
+                    14
+                  ],
+                  "unlockedPropertyIDs": [
+                    "demonicSkill"
+                  ],
+                  "incomeMods": null,
+                  "recruiterBonusLevels": 0,
+                  "lootBonus": 0,
+                  "unlockedRangedAttack": null,
+                  "unlockedWeaponSet": null,
+                  "leftOverWounds": 0,
+                  "destroyed": false
+                },
+                "altSkin": null,
+                "firstName": null,
+                "UnitSeed": 4202
+              }
+            ]
+          },
+          {
+            "sectionName": "Demonic Allies",
+            "entries": []
+          },
+          {
+            "sectionName": "War Beasts",
+            "entries": []
+          }
+        ]
+      },
+      "hasActedThisTurn": true,
+      "retreatedTurns": 0,
+      "battleEntryPoints": -1,
+      "destroyed": false
+    },
+    {
+      "armyID": 1724137357,
+      "armyName": "Citlalli's Army",
+      "ownerID": 1,
+      "currentRegion": "31",
+      "position": {
+        "x": 90.99803,
+        "y": -92.2991638,
+        "normalized": {
+          "x": 0.7020697,
+          "y": -0.712108254,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 129.613953,
+        "sqrMagnitude": 16799.7773
+      },
+      "list": {
+        "listName": "Citlalli's Army",
+        "id": "2aedf75d-e08a-4302-a5d6-9e43feee526a",
+        "factionType": 8,
+        "modFactionId": "",
+        "armySize": 0,
+        "armyAppearance": {
+          "primary": 52,
+          "secondary": 33,
+          "icon": 56
+        },
+        "armyIcon": 0,
+        "characters": {
+          "sectionName": "Commanders",
+          "entries": [
+            {
+              "count": 13,
+              "width": 5,
+              "customWidthSet": false,
+              "character": {
+                "unitID": "newtPriest",
+                "flavourName": "Citlalli ",
+                "faction": 8,
+                "modFactionId": "",
+                "pattern": {
+                  "pattern": 0,
+                  "inverted": false
+                },
+                "propertySelections": [],
+                "magicItems": null,
+                "spells": [
+                  "divineFavour",
+                  "arcaneWeb"
+                ],
+                "campaignUnitProgress": {
+                  "maxUnitSize": 1,
+                  "xp": 0,
+                  "totalKills": 0,
+                  "totalLosses": 0,
+                  "level": 3,
+                  "replenishmentBonus": 0.0,
+                  "passiveReplenishmentBonus": 0.0,
+                  "levelUpBonuses": [
+                    22,
+                    22
+                  ],
+                  "unlockedPropertyIDs": [
+                    "greaterFavour",
+                    "greaterWeb"
+                  ],
+                  "incomeMods": null,
+                  "recruiterBonusLevels": 0,
+                  "lootBonus": 0,
+                  "unlockedRangedAttack": null,
+                  "unlockedWeaponSet": null,
+                  "leftOverWounds": 0,
+                  "destroyed": false
+                },
+                "altSkin": "newtPriest2",
+                "firstName": "Citlalli",
+                "UnitSeed": 6980
+              },
+              "hasCharacter": true,
+              "deadCharacter": false,
+              "unitID": "newtBraves",
+              "flavourName": "Citlalli's Reckoners",
+              "faction": 8,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 3,
+                "inverted": false
+              },
+              "propertySelections": [],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 19,
+                "xp": 1,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 2,
+                "replenishmentBonus": 0.0,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0,
+                  12
+                ],
+                "unlockedPropertyIDs": [],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 5,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 7607
+            }
+          ]
+        },
+        "battleLine": {
+          "sectionName": "Battle Line",
+          "entries": [
+            {
+              "count": 14,
+              "width": 5,
+              "customWidthSet": false,
+              "character": null,
+              "hasCharacter": false,
+              "deadCharacter": false,
+              "unitID": "newtBraves",
+              "flavourName": "Obsidian Stalkers",
+              "faction": 8,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 3,
+                "inverted": false
+              },
+              "propertySelections": [],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 20,
+                "xp": 1,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 2,
+                "replenishmentBonus": 0.0,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0,
+                  2
+                ],
+                "unlockedPropertyIDs": [
+                  "veteranDiscipline1"
+                ],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 0,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 9227
+            },
+            {
+              "count": 10,
+              "width": 5,
+              "customWidthSet": false,
+              "character": null,
+              "hasCharacter": false,
+              "deadCharacter": false,
+              "unitID": "saurianSpear",
+              "flavourName": "Jungle Guard",
+              "faction": 8,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 3,
+                "inverted": false
+              },
+              "propertySelections": [],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 15,
+                "xp": 0,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 2,
+                "replenishmentBonus": 0.5,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0,
+                  1
+                ],
+                "unlockedPropertyIDs": [],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 0,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 4763
+            }
+          ]
+        },
+        "armyListSections": [
+          {
+            "sectionName": "Fast Attack",
+            "entries": []
+          },
+          {
+            "sectionName": "Ranged Support",
+            "entries": []
+          },
+          {
+            "sectionName": "Jungle Beasts",
+            "entries": []
+          }
+        ]
+      },
+      "hasActedThisTurn": true,
+      "retreatedTurns": 0,
+      "battleEntryPoints": -1,
+      "destroyed": false
+    },
+    {
+      "armyID": -1018045139,
+      "armyName": "Elyria's Army",
+      "ownerID": 2,
+      "currentRegion": "1",
+      "position": {
+        "x": 71.92653,
+        "y": -63.39516,
+        "normalized": {
+          "x": 0.750196934,
+          "y": -0.6612144,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 95.87686,
+        "sqrMagnitude": 9192.372
+      },
+      "list": {
+        "listName": "Elyria's Army",
+        "id": "ae033d90-e35a-4c26-89f5-3f5a54e4feeb",
+        "factionType": 7,
+        "modFactionId": "",
+        "armySize": 0,
+        "armyAppearance": {
+          "primary": 17,
+          "secondary": 16,
+          "icon": 59
+        },
+        "armyIcon": 0,
+        "characters": {
+          "sectionName": "Commanders",
+          "entries": [
+            {
+              "count": 12,
+              "width": 6,
+              "customWidthSet": false,
+              "character": {
+                "unitID": "abyssalChampion",
+                "flavourName": "Elyria the Vile",
+                "faction": 7,
+                "modFactionId": "",
+                "pattern": {
+                  "pattern": 0,
+                  "inverted": false
+                },
+                "propertySelections": [
+                  "ccwshield"
+                ],
+                "magicItems": null,
+                "spells": null,
+                "campaignUnitProgress": {
+                  "maxUnitSize": 1,
+                  "xp": 0,
+                  "totalKills": 0,
+                  "totalLosses": 0,
+                  "level": 2,
+                  "replenishmentBonus": 0.0,
+                  "passiveReplenishmentBonus": 0.0,
+                  "levelUpBonuses": [
+                    23
+                  ],
+                  "unlockedPropertyIDs": [],
+                  "incomeMods": null,
+                  "recruiterBonusLevels": 1,
+                  "lootBonus": 0,
+                  "unlockedRangedAttack": null,
+                  "unlockedWeaponSet": null,
+                  "leftOverWounds": 0,
+                  "destroyed": false
+                },
+                "altSkin": "exaltedChampion",
+                "firstName": "Elyria",
+                "UnitSeed": 3679
+              },
+              "hasCharacter": true,
+              "deadCharacter": false,
+              "unitID": "northmenAxe",
+              "flavourName": "Elyria's Berserkers",
+              "faction": 7,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 3,
+                "inverted": false
+              },
+              "propertySelections": [
+                "ccwshield"
+              ],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 14,
+                "xp": 0,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 1,
+                "replenishmentBonus": 0.0,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0
+                ],
+                "unlockedPropertyIDs": [],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 0,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 2756
+            }
+          ]
+        },
+        "battleLine": {
+          "sectionName": "Battle Line",
+          "entries": [
+            {
+              "count": 14,
+              "width": 5,
+              "customWidthSet": false,
+              "character": null,
+              "hasCharacter": false,
+              "deadCharacter": false,
+              "unitID": "abyssalWarriors",
+              "flavourName": "The Iron Flayers",
+              "faction": 7,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 2,
+                "inverted": false
+              },
+              "propertySelections": [
+                "ccwshield"
+              ],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 20,
+                "xp": 0,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 2,
+                "replenishmentBonus": 0.0,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0,
+                  0
+                ],
+                "unlockedPropertyIDs": [],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 0,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 7387
+            }
+          ]
+        },
+        "armyListSections": [
+          {
+            "sectionName": "Fast Attack",
+            "entries": [
+              {
+                "count": 8,
+                "width": 4,
+                "customWidthSet": false,
+                "character": null,
+                "hasCharacter": false,
+                "deadCharacter": false,
+                "unitID": "abyssalHounds",
+                "flavourName": "Nightmaws",
+                "faction": 7,
+                "modFactionId": "",
+                "pattern": {
+                  "pattern": 5,
+                  "inverted": false
+                },
+                "propertySelections": [],
+                "magicItems": null,
+                "spells": null,
+                "campaignUnitProgress": {
+                  "maxUnitSize": 11,
+                  "xp": 0,
+                  "totalKills": 0,
+                  "totalLosses": 0,
+                  "level": 2,
+                  "replenishmentBonus": 0.0,
+                  "passiveReplenishmentBonus": 0.0,
+                  "levelUpBonuses": [
+                    0,
+                    0
+                  ],
+                  "unlockedPropertyIDs": [],
+                  "incomeMods": null,
+                  "recruiterBonusLevels": 0,
+                  "lootBonus": 0,
+                  "unlockedRangedAttack": null,
+                  "unlockedWeaponSet": null,
+                  "leftOverWounds": 0,
+                  "destroyed": false
+                },
+                "altSkin": null,
+                "firstName": null,
+                "UnitSeed": 9612
+              },
+              {
+                "count": 8,
+                "width": 4,
+                "customWidthSet": false,
+                "character": null,
+                "hasCharacter": false,
+                "deadCharacter": false,
+                "unitID": "abyssalKnights",
+                "flavourName": "The Blood Cabal",
+                "faction": 7,
+                "modFactionId": "",
+                "pattern": {
+                  "pattern": 6,
+                  "inverted": false
+                },
+                "propertySelections": [
+                  "ccwshield"
+                ],
+                "magicItems": null,
+                "spells": null,
+                "campaignUnitProgress": {
+                  "maxUnitSize": 8,
+                  "xp": 0,
+                  "totalKills": 0,
+                  "totalLosses": 0,
+                  "level": 2,
+                  "replenishmentBonus": 0.0,
+                  "passiveReplenishmentBonus": 0.0,
+                  "levelUpBonuses": [
+                    0,
+                    3
+                  ],
+                  "unlockedPropertyIDs": [
+                    "veteranSkill1"
+                  ],
+                  "incomeMods": null,
+                  "recruiterBonusLevels": 0,
+                  "lootBonus": 0,
+                  "unlockedRangedAttack": null,
+                  "unlockedWeaponSet": null,
+                  "leftOverWounds": 0,
+                  "destroyed": false
+                },
+                "altSkin": null,
+                "firstName": null,
+                "UnitSeed": 4350
+              },
+              {
+                "count": 5,
+                "width": 5,
+                "customWidthSet": false,
+                "character": null,
+                "hasCharacter": false,
+                "deadCharacter": false,
+                "unitID": "northmenHorse",
+                "flavourName": "Eagle Hunters",
+                "faction": 7,
+                "modFactionId": "",
+                "pattern": {
+                  "pattern": 7,
+                  "inverted": false
+                },
+                "propertySelections": [],
+                "magicItems": null,
+                "spells": null,
+                "campaignUnitProgress": {
+                  "maxUnitSize": 8,
+                  "xp": 0,
+                  "totalKills": 0,
+                  "totalLosses": 0,
+                  "level": 2,
+                  "replenishmentBonus": 0.0,
+                  "passiveReplenishmentBonus": 0.0,
+                  "levelUpBonuses": [
+                    0,
+                    3
+                  ],
+                  "unlockedPropertyIDs": [
+                    "veteranSkill1"
+                  ],
+                  "incomeMods": null,
+                  "recruiterBonusLevels": 0,
+                  "lootBonus": 0,
+                  "unlockedRangedAttack": null,
+                  "unlockedWeaponSet": null,
+                  "leftOverWounds": 0,
+                  "destroyed": false
+                },
+                "altSkin": null,
+                "firstName": null,
+                "UnitSeed": 5673
+              }
+            ]
+          },
+          {
+            "sectionName": "Demonic Allies",
+            "entries": []
+          },
+          {
+            "sectionName": "War Beasts",
+            "entries": []
+          }
+        ]
+      },
+      "hasActedThisTurn": false,
+      "retreatedTurns": 0,
+      "battleEntryPoints": -1,
+      "destroyed": false
+    },
+    {
+      "armyID": -1876902218,
+      "armyName": "Xipil's Army",
+      "ownerID": 1,
+      "currentRegion": "31",
+      "position": {
+        "x": 89.99803,
+        "y": -92.2991638,
+        "normalized": {
+          "x": 0.6981254,
+          "y": -0.7159755,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 128.913849,
+        "sqrMagnitude": 16618.7813
+      },
+      "list": {
+        "listName": "Xipil's Army",
+        "id": "d09b59ed-6869-4cd3-93a1-e985a665cd6e",
+        "factionType": 8,
+        "modFactionId": "",
+        "armySize": 0,
+        "armyAppearance": {
+          "primary": 52,
+          "secondary": 33,
+          "icon": 56
+        },
+        "armyIcon": 0,
+        "characters": {
+          "sectionName": "Commanders",
+          "entries": [
+            {
+              "count": 12,
+              "width": 6,
+              "customWidthSet": false,
+              "character": {
+                "unitID": "ancientToad",
+                "flavourName": "Xipil ",
+                "faction": 8,
+                "modFactionId": "",
+                "pattern": {
+                  "pattern": 0,
+                  "inverted": false
+                },
+                "propertySelections": [],
+                "magicItems": null,
+                "spells": [
+                  "divineFavour",
+                  "radiantShield"
+                ],
+                "campaignUnitProgress": {
+                  "maxUnitSize": 1,
+                  "xp": 0,
+                  "totalKills": 0,
+                  "totalLosses": 0,
+                  "level": 2,
+                  "replenishmentBonus": 0.0,
+                  "passiveReplenishmentBonus": 0.0,
+                  "levelUpBonuses": [
+                    4
+                  ],
+                  "unlockedPropertyIDs": [],
+                  "incomeMods": [
+                    {
+                      "mod": 1.05,
+                      "bonus": 0,
+                      "type": 0
+                    }
+                  ],
+                  "recruiterBonusLevels": 0,
+                  "lootBonus": 0,
+                  "unlockedRangedAttack": null,
+                  "unlockedWeaponSet": null,
+                  "leftOverWounds": 0,
+                  "destroyed": false
+                },
+                "altSkin": null,
+                "firstName": "Xipil",
+                "UnitSeed": 5429
+              },
+              "hasCharacter": true,
+              "deadCharacter": false,
+              "unitID": "saurianWarriors",
+              "flavourName": "Xipil's Hunters",
+              "faction": 8,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 3,
+                "inverted": false
+              },
+              "propertySelections": [],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 14,
+                "xp": 0,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 1,
+                "replenishmentBonus": 0.0,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0
+                ],
+                "unlockedPropertyIDs": [],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 0,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 7695
+            }
+          ]
+        },
+        "battleLine": {
+          "sectionName": "Battle Line",
+          "entries": [
+            {
+              "count": 20,
+              "width": 5,
+              "customWidthSet": false,
+              "character": null,
+              "hasCharacter": false,
+              "deadCharacter": false,
+              "unitID": "newtBraves",
+              "flavourName": "Coldblood Ambushers",
+              "faction": 8,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 3,
+                "inverted": false
+              },
+              "propertySelections": [],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 20,
+                "xp": 0,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 1,
+                "replenishmentBonus": 0.0,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0
+                ],
+                "unlockedPropertyIDs": [],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 0,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 7364
+            }
+          ]
+        },
+        "armyListSections": [
+          {
+            "sectionName": "Fast Attack",
+            "entries": []
+          },
+          {
+            "sectionName": "Ranged Support",
+            "entries": []
+          },
+          {
+            "sectionName": "Jungle Beasts",
+            "entries": []
+          }
+        ]
+      },
+      "hasActedThisTurn": true,
+      "retreatedTurns": 0,
+      "battleEntryPoints": -1,
+      "destroyed": false
+    },
+    {
+      "armyID": -1702442685,
+      "armyName": "Drekka's Army",
+      "ownerID": 0,
+      "currentRegion": "29",
+      "position": {
+        "x": 116.556427,
+        "y": -85.4351654,
+        "normalized": {
+          "x": 0.8065355,
+          "y": -0.5911857,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 144.514938,
+        "sqrMagnitude": 20884.5684
+      },
+      "list": {
+        "listName": "Drekka's Army",
+        "id": "9413ee53-304c-45d3-aefd-40b1239e9ae3",
+        "factionType": 2,
+        "modFactionId": "",
+        "armySize": 0,
+        "armyAppearance": {
+          "primary": 15,
+          "secondary": 31,
+          "icon": 58
+        },
+        "armyIcon": 0,
+        "characters": {
+          "sectionName": "Commanders",
+          "entries": [
+            {
+              "count": 9,
+              "width": 5,
+              "customWidthSet": true,
+              "character": {
+                "unitID": "warchief",
+                "flavourName": "Drekka Bonecrusher",
+                "faction": 2,
+                "modFactionId": "",
+                "pattern": {
+                  "pattern": 0,
+                  "inverted": false
+                },
+                "propertySelections": [
+                  "greatweapon"
+                ],
+                "magicItems": null,
+                "spells": null,
+                "campaignUnitProgress": {
+                  "maxUnitSize": 1,
+                  "xp": 0,
+                  "totalKills": 0,
+                  "totalLosses": 0,
+                  "level": 5,
+                  "replenishmentBonus": 0.0,
+                  "passiveReplenishmentBonus": 0.0,
+                  "levelUpBonuses": [
+                    6,
+                    23,
+                    3,
+                    6
+                  ],
+                  "unlockedPropertyIDs": [
+                    "veteranSkill1",
+                    "offensiveMastery2"
+                  ],
+                  "incomeMods": null,
+                  "recruiterBonusLevels": 1,
+                  "lootBonus": 0,
+                  "unlockedRangedAttack": null,
+                  "unlockedWeaponSet": null,
+                  "leftOverWounds": 0,
+                  "destroyed": false
+                },
+                "altSkin": "bruteChief",
+                "firstName": "Drekka",
+                "UnitSeed": 6264
+              },
+              "hasCharacter": true,
+              "deadCharacter": false,
+              "unitID": "orcWarriors",
+              "flavourName": "Drekka's Marauders",
+              "faction": 2,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 1,
+                "inverted": false
+              },
+              "propertySelections": [
+                "2CCW"
+              ],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 14,
+                "xp": 0,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 1,
+                "replenishmentBonus": 0.0,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0
+                ],
+                "unlockedPropertyIDs": [],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 0,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 7707
+            }
+          ]
+        },
+        "battleLine": {
+          "sectionName": "Battle Line",
+          "entries": [
+            {
+              "count": 20,
+              "width": 5,
+              "customWidthSet": false,
+              "character": null,
+              "hasCharacter": false,
+              "deadCharacter": false,
+              "unitID": "goblinMob",
+              "flavourName": "Snaggletooth Saboteurs",
+              "faction": 2,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 3,
+                "inverted": false
+              },
+              "propertySelections": [],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 20,
+                "xp": 0,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 2,
+                "replenishmentBonus": 0.0,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0,
+                  12
+                ],
+                "unlockedPropertyIDs": [],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 5,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 2784
+            },
+            {
+              "count": 24,
+              "width": 5,
+              "customWidthSet": false,
+              "character": null,
+              "hasCharacter": false,
+              "deadCharacter": false,
+              "unitID": "goblinSpears",
+              "flavourName": "Black Ravagers",
+              "faction": 2,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 3,
+                "inverted": false
+              },
+              "propertySelections": [],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 25,
+                "xp": 0,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 2,
+                "replenishmentBonus": 0.0,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0,
+                  0
+                ],
+                "unlockedPropertyIDs": [],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 0,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 633
+            },
+            {
+              "count": 15,
+              "width": 5,
+              "customWidthSet": false,
+              "character": null,
+              "hasCharacter": false,
+              "deadCharacter": false,
+              "unitID": "goblinMob",
+              "flavourName": "Shadowclaw Warriors",
+              "faction": 2,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 3,
+                "inverted": false
+              },
+              "propertySelections": [],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 25,
+                "xp": 0,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 2,
+                "replenishmentBonus": 0.0,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0,
+                  0
+                ],
+                "unlockedPropertyIDs": [],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 0,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 2246
+            },
+            {
+              "count": 15,
+              "width": 5,
+              "customWidthSet": false,
+              "character": null,
+              "hasCharacter": false,
+              "deadCharacter": false,
+              "unitID": "goblinSpears",
+              "flavourName": "Sneakblade Raiders",
+              "faction": 2,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 3,
+                "inverted": false
+              },
+              "propertySelections": [],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 30,
+                "xp": 0,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 2,
+                "replenishmentBonus": 0.0,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0,
+                  37
+                ],
+                "unlockedPropertyIDs": [],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 0,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 8054
+            }
+          ]
+        },
+        "armyListSections": [
+          {
+            "sectionName": "Raiders",
+            "entries": []
+          },
+          {
+            "sectionName": "Ranged Support",
+            "entries": []
+          },
+          {
+            "sectionName": "Big Stuff",
+            "entries": []
+          }
+        ]
+      },
+      "hasActedThisTurn": true,
+      "retreatedTurns": 0,
+      "battleEntryPoints": -1,
+      "destroyed": false
+    },
+    {
+      "armyID": 1062275109,
+      "armyName": "Rukkax's Army",
+      "ownerID": 0,
+      "currentRegion": "29",
+      "position": {
+        "x": 117.556427,
+        "y": -85.4351654,
+        "normalized": {
+          "x": 0.8089338,
+          "y": -0.587899745,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 145.322678,
+        "sqrMagnitude": 21118.6816
+      },
+      "list": {
+        "listName": "Rukkax's Army",
+        "id": "de440c5a-021d-48b5-bdb9-01f18f0bb765",
+        "factionType": 2,
+        "modFactionId": "",
+        "armySize": 0,
+        "armyAppearance": {
+          "primary": 15,
+          "secondary": 31,
+          "icon": 58
+        },
+        "armyIcon": 0,
+        "characters": {
+          "sectionName": "Commanders",
+          "entries": [
+            {
+              "count": 14,
+              "width": 5,
+              "customWidthSet": false,
+              "character": {
+                "unitID": "goblinShaman",
+                "flavourName": "Rukkax Bloodspindle",
+                "faction": 2,
+                "modFactionId": "",
+                "pattern": {
+                  "pattern": 0,
+                  "inverted": false
+                },
+                "propertySelections": [],
+                "magicItems": null,
+                "spells": [
+                  "shadowBolt",
+                  "primalFury"
+                ],
+                "campaignUnitProgress": {
+                  "maxUnitSize": 1,
+                  "xp": 0,
+                  "totalKills": 0,
+                  "totalLosses": 0,
+                  "level": 5,
+                  "replenishmentBonus": 0.0,
+                  "passiveReplenishmentBonus": 0.0,
+                  "levelUpBonuses": [
+                    23,
+                    23,
+                    22,
+                    22
+                  ],
+                  "unlockedPropertyIDs": [
+                    "greaterShadowbolt",
+                    "greaterFury"
+                  ],
+                  "incomeMods": null,
+                  "recruiterBonusLevels": 2,
+                  "lootBonus": 0,
+                  "unlockedRangedAttack": null,
+                  "unlockedWeaponSet": null,
+                  "leftOverWounds": 0,
+                  "destroyed": false
+                },
+                "altSkin": null,
+                "firstName": "Rukkax",
+                "UnitSeed": 2655
+              },
+              "hasCharacter": true,
+              "deadCharacter": false,
+              "unitID": "goblinShortbows",
+              "flavourName": "Rukkax's Reckoners",
+              "faction": 2,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 3,
+                "inverted": false
+              },
+              "propertySelections": [],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 17,
+                "xp": 0,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 1,
+                "replenishmentBonus": 0.0,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0
+                ],
+                "unlockedPropertyIDs": [],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 0,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 7429
+            }
+          ]
+        },
+        "battleLine": {
+          "sectionName": "Battle Line",
+          "entries": [
+            {
+              "count": 15,
+              "width": 5,
+              "customWidthSet": false,
+              "character": null,
+              "hasCharacter": false,
+              "deadCharacter": false,
+              "unitID": "goblinMob",
+              "flavourName": "Red Skulkers",
+              "faction": 2,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 3,
+                "inverted": false
+              },
+              "propertySelections": [],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 20,
+                "xp": 0,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 3,
+                "replenishmentBonus": 0.0,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0,
+                  3,
+                  2
+                ],
+                "unlockedPropertyIDs": [
+                  "veteranSkill1",
+                  "veteranDiscipline1"
+                ],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 0,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 1038
+            },
+            {
+              "count": 15,
+              "width": 5,
+              "customWidthSet": false,
+              "character": null,
+              "hasCharacter": false,
+              "deadCharacter": false,
+              "unitID": "goblinSpears",
+              "flavourName": "Trickster Reckoners",
+              "faction": 2,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 3,
+                "inverted": false
+              },
+              "propertySelections": [],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 25,
+                "xp": 0,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 3,
+                "replenishmentBonus": 0.0,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0,
+                  0,
+                  38
+                ],
+                "unlockedPropertyIDs": [
+                  "backstabbers"
+                ],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 0,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 7968
+            },
+            {
+              "count": 15,
+              "width": 5,
+              "customWidthSet": false,
+              "character": null,
+              "hasCharacter": false,
+              "deadCharacter": false,
+              "unitID": "goblinMob",
+              "flavourName": "Shadowclaw Saboteurs",
+              "faction": 2,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 3,
+                "inverted": false
+              },
+              "propertySelections": [],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 25,
+                "xp": 0,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 3,
+                "replenishmentBonus": 0.0,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0,
+                  0,
+                  38
+                ],
+                "unlockedPropertyIDs": [
+                  "backstabbers"
+                ],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 0,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 169
+            },
+            {
+              "count": 15,
+              "width": 5,
+              "customWidthSet": false,
+              "character": null,
+              "hasCharacter": false,
+              "deadCharacter": false,
+              "unitID": "goblinMob",
+              "flavourName": "Sneakblade Ravagers",
+              "faction": 2,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 3,
+                "inverted": false
+              },
+              "propertySelections": [],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 25,
+                "xp": 0,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 3,
+                "replenishmentBonus": 0.0,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0,
+                  38,
+                  0
+                ],
+                "unlockedPropertyIDs": [
+                  "backstabbers"
+                ],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 0,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 1511
+            },
+            {
+              "count": 15,
+              "width": 5,
+              "customWidthSet": false,
+              "character": null,
+              "hasCharacter": false,
+              "deadCharacter": false,
+              "unitID": "goblinSpears",
+              "flavourName": "Snaggletooth Thieves",
+              "faction": 2,
+              "modFactionId": "",
+              "pattern": {
+                "pattern": 3,
+                "inverted": false
+              },
+              "propertySelections": [],
+              "magicItems": null,
+              "spells": null,
+              "campaignUnitProgress": {
+                "maxUnitSize": 30,
+                "xp": 0,
+                "totalKills": 0,
+                "totalLosses": 0,
+                "level": 3,
+                "replenishmentBonus": 0.0,
+                "passiveReplenishmentBonus": 0.0,
+                "levelUpBonuses": [
+                  0,
+                  38,
+                  37
+                ],
+                "unlockedPropertyIDs": [
+                  "backstabbers"
+                ],
+                "incomeMods": null,
+                "recruiterBonusLevels": 0,
+                "lootBonus": 0,
+                "unlockedRangedAttack": null,
+                "unlockedWeaponSet": null,
+                "leftOverWounds": 0,
+                "destroyed": false
+              },
+              "altSkin": null,
+              "firstName": null,
+              "UnitSeed": 7910
+            }
+          ]
+        },
+        "armyListSections": [
+          {
+            "sectionName": "Raiders",
+            "entries": []
+          },
+          {
+            "sectionName": "Ranged Support",
+            "entries": []
+          },
+          {
+            "sectionName": "Big Stuff",
+            "entries": []
+          }
+        ]
+      },
+      "hasActedThisTurn": true,
+      "retreatedTurns": 0,
+      "battleEntryPoints": -1,
+      "destroyed": false
+    }
+  ],
+  "empires": [
+    {
+      "isPlayerFaction": true,
+      "empireID": 0,
+      "empireName": "Greenskin Tribes",
+      "faction": 2,
+      "gold": 98510,
+      "currencies": null,
+      "battlesWon": 1,
+      "regionsTaken": 4,
+      "commanderRecruitPool": [
+        null,
+        {
+          "unitID": "warchief",
+          "name": "Grommash the Conqueror",
+          "firstName": "Grommash",
+          "level": 5,
+          "altPortrait": false,
+          "uID": "ef42caa5-3e77-405a-a0e2-74c3ab6fc3a3"
+        },
+        null
+      ]
+    },
+    {
+      "isPlayerFaction": false,
+      "empireID": 1,
+      "empireName": "Reptilian Kingdoms",
+      "faction": 8,
+      "gold": 0,
+      "currencies": null,
+      "battlesWon": 7,
+      "regionsTaken": 3,
+      "commanderRecruitPool": [
+        {
+          "unitID": "newtPriest",
+          "name": "Nahuatl ",
+          "firstName": "Nahuatl",
+          "level": 2,
+          "altPortrait": false,
+          "uID": "5401ad7e-b203-406f-9a6f-8a8137d28d64"
+        },
+        {
+          "unitID": "saurianWarlord",
+          "name": "Gaqor Scarred-One",
+          "firstName": "Gaqor",
+          "level": 2,
+          "altPortrait": false,
+          "uID": "9abec666-2431-43ac-ac3e-dfc25b9aa6af"
+        },
+        {
+          "unitID": "saurianWarlord",
+          "name": "Grarar ",
+          "firstName": "Grarar",
+          "level": 3,
+          "altPortrait": true,
+          "uID": "f951b95e-d817-47ba-baab-b4ba4146f392"
+        }
+      ]
+    },
+    {
+      "isPlayerFaction": false,
+      "empireID": 2,
+      "empireName": "Abyssal Legions",
+      "faction": 7,
+      "gold": 0,
+      "currencies": null,
+      "battlesWon": 9,
+      "regionsTaken": 2,
+      "commanderRecruitPool": [
+        {
+          "unitID": "abyssalChampion",
+          "name": "Lysandra Slaughtersworn",
+          "firstName": "Lysandra",
+          "level": 3,
+          "altPortrait": true,
+          "uID": "ecb4da04-451b-41fa-8587-a2e119efca64"
+        },
+        {
+          "unitID": "northmenPackleader",
+          "name": "Vespera Skullborn",
+          "firstName": "Vespera",
+          "level": 2,
+          "altPortrait": false,
+          "uID": "bacf7d76-d6c2-4359-bba2-b7a06285a8d6"
+        },
+        {
+          "unitID": "northmenPackleader",
+          "name": "Vaemon Killsworn",
+          "firstName": "Vaemon",
+          "level": 3,
+          "altPortrait": true,
+          "uID": "f5be6ad7-5ab6-49c6-85be-e7b388f26a6f"
+        }
+      ]
+    },
+    {
+      "isPlayerFaction": false,
+      "empireID": 3,
+      "empireName": "Elven Conclaves",
+      "faction": 4,
+      "gold": 0,
+      "currencies": null,
+      "battlesWon": 0,
+      "regionsTaken": 1,
+      "commanderRecruitPool": [
+        {
+          "unitID": "elfMage",
+          "name": "Valarian Stormcaller",
+          "firstName": "Valarian",
+          "level": 2,
+          "altPortrait": false,
+          "uID": "338138fc-287c-4533-861d-3a521d006eb4"
+        },
+        {
+          "unitID": "elfMage",
+          "name": "Isabeau Dreamweaver",
+          "firstName": "Isabeau",
+          "level": 2,
+          "altPortrait": true,
+          "uID": "f8df8895-52ae-4ead-b1b3-d5932af841e5"
+        },
+        {
+          "unitID": "elfNoble",
+          "name": "Calista Emberheart",
+          "firstName": "Calista",
+          "level": 3,
+          "altPortrait": false,
+          "uID": "88a47dfb-da72-4b4c-912e-8724c05aea49"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "playerStats": [
+      {
+        "empireID": 0,
+        "regionsOwned": 13,
+        "armiesOwned": 2,
+        "buildingsBuilt": 15,
+        "goldEarned": 2462,
+        "battlesFought": 1,
+        "enemiesKilled": 0,
+        "turnsPlayed": 43
+      },
+      {
+        "empireID": 1,
+        "regionsOwned": 8,
+        "armiesOwned": 4,
+        "buildingsBuilt": 25,
+        "goldEarned": 4975,
+        "battlesFought": 16,
+        "enemiesKilled": 1,
+        "turnsPlayed": 43
+      },
+      {
+        "empireID": 2,
+        "regionsOwned": 9,
+        "armiesOwned": 3,
+        "buildingsBuilt": 25,
+        "goldEarned": 6702,
+        "battlesFought": 14,
+        "enemiesKilled": 0,
+        "turnsPlayed": 43
+      },
+      {
+        "empireID": 3,
+        "regionsOwned": 0,
+        "armiesOwned": 0,
+        "buildingsBuilt": 4,
+        "goldEarned": 166,
+        "battlesFought": 3,
+        "enemiesKilled": 0,
+        "turnsPlayed": 43
+      }
+    ],
+    "roundHistory": [
+      {
+        "round": 1,
+        "playerScore": [
+          967,
+          944,
+          942,
+          870
+        ],
+        "playerMilitaryScore": [
+          224,
+          241,
+          239,
+          195
+        ]
+      },
+      {
+        "round": 2,
+        "playerScore": [
+          1180,
+          1167,
+          1097,
+          1122
+        ],
+        "playerMilitaryScore": [
+          290,
+          301,
+          245,
+          275
+        ]
+      },
+      {
+        "round": 3,
+        "playerScore": [
+          1181,
+          1264,
+          1360,
+          1349
+        ],
+        "playerMilitaryScore": [
+          290,
+          309,
+          263,
+          285
+        ]
+      },
+      {
+        "round": 4,
+        "playerScore": [
+          1328,
+          1454,
+          1393,
+          1254
+        ],
+        "playerMilitaryScore": [
+          290,
+          322,
+          281,
+          295
+        ]
+      },
+      {
+        "round": 5,
+        "playerScore": [
+          1611,
+          1539,
+          1560,
+          1166
+        ],
+        "playerMilitaryScore": [
+          290,
+          335,
+          299,
+          234
+        ]
+      },
+      {
+        "round": 6,
+        "playerScore": [
+          1405,
+          1729,
+          1585,
+          1103
+        ],
+        "playerMilitaryScore": [
+          290,
+          348,
+          317,
+          234
+        ]
+      },
+      {
+        "round": 7,
+        "playerScore": [
+          1668,
+          1856,
+          1836,
+          1264
+        ],
+        "playerMilitaryScore": [
+          290,
+          357,
+          329,
+          234
+        ]
+      },
+      {
+        "round": 8,
+        "playerScore": [
+          1747,
+          1886,
+          2016,
+          510
+        ],
+        "playerMilitaryScore": [
+          290,
+          497,
+          329,
+          234
+        ]
+      },
+      {
+        "round": 9,
+        "playerScore": [
+          1675,
+          1895,
+          2000,
+          508
+        ],
+        "playerMilitaryScore": [
+          290,
+          506,
+          443,
+          234
+        ]
+      },
+      {
+        "round": 10,
+        "playerScore": [
+          1546,
+          1723,
+          1818,
+          510
+        ],
+        "playerMilitaryScore": [
+          290,
+          515,
+          467,
+          234
+        ]
+      },
+      {
+        "round": 11,
+        "playerScore": [
+          1576,
+          1782,
+          1854,
+          508
+        ],
+        "playerMilitaryScore": [
+          290,
+          533,
+          473,
+          234
+        ]
+      },
+      {
+        "round": 12,
+        "playerScore": [
+          1475,
+          1887,
+          1916,
+          529
+        ],
+        "playerMilitaryScore": [
+          290,
+          551,
+          473,
+          234
+        ]
+      },
+      {
+        "round": 13,
+        "playerScore": [
+          1477,
+          1925,
+          1990,
+          527
+        ],
+        "playerMilitaryScore": [
+          290,
+          569,
+          473,
+          234
+        ]
+      },
+      {
+        "round": 14,
+        "playerScore": [
+          1479,
+          1964,
+          2052,
+          524
+        ],
+        "playerMilitaryScore": [
+          290,
+          587,
+          473,
+          234
+        ]
+      },
+      {
+        "round": 15,
+        "playerScore": [
+          1723,
+          2280,
+          2196,
+          522
+        ],
+        "playerMilitaryScore": [
+          394,
+          587,
+          473,
+          234
+        ]
+      },
+      {
+        "round": 16,
+        "playerScore": [
+          1658,
+          2295,
+          2539,
+          637
+        ],
+        "playerMilitaryScore": [
+          568,
+          587,
+          592,
+          234
+        ]
+      },
+      {
+        "round": 17,
+        "playerScore": [
+          1750,
+          2574,
+          2628,
+          584
+        ],
+        "playerMilitaryScore": [
+          568,
+          587,
+          622,
+          200
+        ]
+      },
+      {
+        "round": 18,
+        "playerScore": [
+          1826,
+          2317,
+          2673,
+          138
+        ],
+        "playerMilitaryScore": [
+          568,
+          579,
+          622,
+          0
+        ]
+      },
+      {
+        "round": 19,
+        "playerScore": [
+          1701,
+          2430,
+          2673,
+          138
+        ],
+        "playerMilitaryScore": [
+          568,
+          669,
+          622,
+          0
+        ]
+      },
+      {
+        "round": 20,
+        "playerScore": [
+          1811,
+          2914,
+          2991,
+          138
+        ],
+        "playerMilitaryScore": [
+          568,
+          722,
+          790,
+          0
+        ]
+      },
+      {
+        "round": 21,
+        "playerScore": [
+          1921,
+          2510,
+          3053,
+          138
+        ],
+        "playerMilitaryScore": [
+          568,
+          812,
+          802,
+          0
+        ]
+      },
+      {
+        "round": 22,
+        "playerScore": [
+          1930,
+          2724,
+          3137,
+          138
+        ],
+        "playerMilitaryScore": [
+          568,
+          857,
+          802,
+          0
+        ]
+      },
+      {
+        "round": 23,
+        "playerScore": [
+          1871,
+          2973,
+          3272,
+          138
+        ],
+        "playerMilitaryScore": [
+          568,
+          857,
+          802,
+          0
+        ]
+      },
+      {
+        "round": 24,
+        "playerScore": [
+          1996,
+          2742,
+          3735,
+          138
+        ],
+        "playerMilitaryScore": [
+          568,
+          731,
+          802,
+          0
+        ]
+      },
+      {
+        "round": 25,
+        "playerScore": [
+          1858,
+          2768,
+          4041,
+          138
+        ],
+        "playerMilitaryScore": [
+          568,
+          812,
+          970,
+          0
+        ]
+      },
+      {
+        "round": 26,
+        "playerScore": [
+          1924,
+          3248,
+          4076,
+          138
+        ],
+        "playerMilitaryScore": [
+          568,
+          981,
+          982,
+          0
+        ]
+      },
+      {
+        "round": 27,
+        "playerScore": [
+          1887,
+          3239,
+          4268,
+          138
+        ],
+        "playerMilitaryScore": [
+          568,
+          1017,
+          982,
+          0
+        ]
+      },
+      {
+        "round": 28,
+        "playerScore": [
+          1994,
+          3096,
+          4076,
+          93
+        ],
+        "playerMilitaryScore": [
+          568,
+          1044,
+          1107,
+          0
+        ]
+      },
+      {
+        "round": 29,
+        "playerScore": [
+          2034,
+          3384,
+          4553,
+          93
+        ],
+        "playerMilitaryScore": [
+          568,
+          1053,
+          1156,
+          0
+        ]
+      },
+      {
+        "round": 30,
+        "playerScore": [
+          2151,
+          3701,
+          5030,
+          93
+        ],
+        "playerMilitaryScore": [
+          568,
+          999,
+          1139,
+          0
+        ]
+      },
+      {
+        "round": 31,
+        "playerScore": [
+          2128,
+          3579,
+          5275,
+          93
+        ],
+        "playerMilitaryScore": [
+          588,
+          759,
+          1190,
+          0
+        ]
+      },
+      {
+        "round": 32,
+        "playerScore": [
+          2190,
+          3565,
+          5120,
+          93
+        ],
+        "playerMilitaryScore": [
+          588,
+          714,
+          1225,
+          0
+        ]
+      },
+      {
+        "round": 33,
+        "playerScore": [
+          2319,
+          4035,
+          5044,
+          93
+        ],
+        "playerMilitaryScore": [
+          588,
+          863,
+          1118,
+          0
+        ]
+      },
+      {
+        "round": 34,
+        "playerScore": [
+          2252,
+          4090,
+          5008,
+          93
+        ],
+        "playerMilitaryScore": [
+          588,
+          872,
+          918,
+          0
+        ]
+      },
+      {
+        "round": 35,
+        "playerScore": [
+          2416,
+          3867,
+          5403,
+          93
+        ],
+        "playerMilitaryScore": [
+          588,
+          755,
+          1132,
+          0
+        ]
+      },
+      {
+        "round": 36,
+        "playerScore": [
+          2362,
+          4062,
+          5737,
+          93
+        ],
+        "playerMilitaryScore": [
+          588,
+          860,
+          1345,
+          0
+        ]
+      },
+      {
+        "round": 37,
+        "playerScore": [
+          2517,
+          4322,
+          5709,
+          93
+        ],
+        "playerMilitaryScore": [
+          588,
+          788,
+          1399,
+          0
+        ]
+      },
+      {
+        "round": 38,
+        "playerScore": [
+          2537,
+          4446,
+          5326,
+          93
+        ],
+        "playerMilitaryScore": [
+          588,
+          806,
+          1227,
+          0
+        ]
+      },
+      {
+        "round": 39,
+        "playerScore": [
+          2709,
+          4546,
+          5516,
+          93
+        ],
+        "playerMilitaryScore": [
+          588,
+          647,
+          1227,
+          0
+        ]
+      },
+      {
+        "round": 40,
+        "playerScore": [
+          2889,
+          4567,
+          5188,
+          93
+        ],
+        "playerMilitaryScore": [
+          588,
+          772,
+          1177,
+          0
+        ]
+      },
+      {
+        "round": 41,
+        "playerScore": [
+          2817,
+          4950,
+          5243,
+          93
+        ],
+        "playerMilitaryScore": [
+          588,
+          968,
+          1252,
+          0
+        ]
+      },
+      {
+        "round": 42,
+        "playerScore": [
+          2822,
+          5215,
+          5740,
+          93
+        ],
+        "playerMilitaryScore": [
+          588,
+          1084,
+          1494,
+          0
+        ]
+      },
+      {
+        "round": 43,
+        "playerScore": [
+          3019,
+          5156,
+          5741,
+          93
+        ],
+        "playerMilitaryScore": [
+          588,
+          1048,
+          1555,
+          0
+        ]
+      }
+    ]
+  },
+  "objectives": [
+    {
+      "slot": 0,
+      "empireID": 0,
+      "tier": 0,
+      "status": 1,
+      "revealRound": 0,
+      "revealAfterSlots": null,
+      "objectiveID": "build_building",
+      "flavourIndex": 0,
+      "progress": 0,
+      "target": 1,
+      "baseline": 0,
+      "targetRegionIDs": null,
+      "targetEmpireID": -1,
+      "targetBuildingID": "arcaneTower",
+      "revealedRound": 0,
+      "completedRound": -1,
+      "rewardKind": 0,
+      "rewardText": null
+    },
+    {
+      "slot": 1,
+      "empireID": 0,
+      "tier": 0,
+      "status": 2,
+      "revealRound": 20,
+      "revealAfterSlots": [
+        0
+      ],
+      "objectiveID": "own_regions",
+      "flavourIndex": 0,
+      "progress": 6,
+      "target": 6,
+      "baseline": 0,
+      "targetRegionIDs": null,
+      "targetEmpireID": -1,
+      "targetBuildingID": null,
+      "revealedRound": 20,
+      "completedRound": 30,
+      "rewardKind": 3,
+      "rewardText": "Garrosh Ironjaw now wields Cruelty."
+    },
+    {
+      "slot": 2,
+      "empireID": 0,
+      "tier": 1,
+      "status": 0,
+      "revealRound": 50,
+      "revealAfterSlots": [
+        0,
+        1
+      ],
+      "objectiveID": null,
+      "flavourIndex": 0,
+      "progress": 0,
+      "target": 0,
+      "baseline": 0,
+      "targetRegionIDs": null,
+      "targetEmpireID": -1,
+      "targetBuildingID": null,
+      "revealedRound": -1,
+      "completedRound": -1,
+      "rewardKind": 0,
+      "rewardText": null
+    }
+  ],
+  "objectiveSeed": -1181774529,
+  "mapId": "Small",
+  "difficulty": 0
+}

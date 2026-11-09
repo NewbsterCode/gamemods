@@ -1,0 +1,8 @@
+# Odin project identity. Tracked, machine-independent, and authoritative for
+# this project's namespace -- see, in the Odin repository,
+# docs/decisions/0019-multi-project-onboarding-and-binding.md.
+# Renaming this folder does NOT change the namespace (that is an explicit
+# migration). Never add paths, credentials or backend hosts to this file.
+schema_version = 1
+project_namespace = "dungeons-dynasties"
+telemetry_enabled = true

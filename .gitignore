@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Personal save files: never commit real saves or their backups
+dungeons-dynasties/my-guild.json
+dungeons-dynasties/*.json.bak
+dungeons-dynasties/save_game_backups/
+*.bak
