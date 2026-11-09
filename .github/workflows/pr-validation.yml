@@ -1,0 +1,47 @@
+# Satisfies the org ruleset check "NBC / PR validation" (ruleset
+# "NBC - Pull Request Review and Validation"). Test-only: read-only token,
+# no secrets, no publishing.
+name: NBC
+
+on:
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pr-validation-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  pr-validation:
+    name: NBC / PR validation
+    # Windows, like the players: the SOVL save model uses Windows paths and tools.
+    runs-on: windows-2025
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Install pytest
+        shell: pwsh
+        run: |
+          python --version
+          python -m pip install --disable-pip-version-check --quiet pytest
+
+      - name: SOVL Campaign Editor tests
+        shell: pwsh
+        working-directory: sovl
+        run: python -m pytest -q tests
+
+      - name: Dungeons & Dynasties editor loads
+        shell: pwsh
+        working-directory: dungeons-dynasties
+        run: |
+          python -c "import dd_save, dd_mods, dd_gold"
+          if ($LASTEXITCODE -ne 0) { throw 'D&D modules failed to import.' }
+          python dd_gold.py --help | Out-Null
+          if ($LASTEXITCODE -ne 0) { throw 'dd_gold.py --help failed.' }
